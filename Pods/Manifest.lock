@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.2.0)
+  - AutocompleteField (2.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (= 5.2)
+  - AutocompleteField (~> 2.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AutocompleteField
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c1ca147559e730bfb2182c8c7aafbdd90a867987
+  AutocompleteField: e92da7722d8cfa5cfd9edbd179e74e5b2c42510c
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 6357edb245da69ef25680165532403cda2e55892
+
+COCOAPODS: 1.11.3

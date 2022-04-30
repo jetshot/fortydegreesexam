@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-fortydegreesexam/Pods-fortydegreesexam-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AutocompleteField/AutocompleteField.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
